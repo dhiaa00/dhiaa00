@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elaziz Dhia eddine</h1>
 <h3 align="center">A passionate front-end developer from Algeria</h3>
-<img src="https://sailab.diism.unisi.it/gnn/_images/intro.gif" alt="gif">
+<img align="right" src="https://sailab.diism.unisi.it/gnn/_images/intro.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiaa00&label=Profile%20views&color=0e75b6&style=flat" alt="dhiaa00" /> </p>
 
