@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elaziz Dhia eddine</h1>
-<h3 align="center">A passionate front-end developer from Algeria</h3>
+<h3 align="center">A passionate developer from Algeria</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhiaa00&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="dhiaa00" /> </p>
 <img align="center" alt="Coding" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BycXo5bmppajg1cjhyanQ1b2IxNGltNm51amozY3IzNzc0eWF6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
