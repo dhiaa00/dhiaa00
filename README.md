@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiaa00" alt="dhiaa00" /></a> </p>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Web developement, AI**
 
 - 📫 How to reach me **dhiaatipaza42@gmail.com**
 
